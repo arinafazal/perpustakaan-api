@@ -33,8 +33,8 @@ Database terdiri dari 3 tabel berelasi:
    ```
 4. Buat file `.env` di *root directory* dan masukkan kredensial Supabase Anda:
    ```env
-   SUPABASE_URL=url_proyek_supabase_anda
-   SUPABASE_KEY=anon_key_supabase_anda
+  SUPABASE_URL=https://hixbudvgoirhhwevfbqr.supabase.co
+  SUPABASE_KEY=sb_publishable_uGPDDv4gyAWha_SwjzPEbQ_N1OaaH2s
    PORT=3000
    ```
 5. Jalankan server di environment development:
