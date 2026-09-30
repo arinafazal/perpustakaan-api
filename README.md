@@ -9,7 +9,7 @@ Stack yang digunakan:
 - **Deployment:** Vercel
 
 ## Link Hasil Deployment Vercel
-🌐 **[KLIK DI SINI UNTUK MEMBUKA API (Ganti dengan link vercelmu)](https://namaprojekmu.vercel.app)**
+🌐 **[KLIK DI SINI UNTUK MEMBUKA API](https://namaprojekmu.vercel.app)**
 
 ## Struktur Data / Schema
 Database terdiri dari 3 tabel berelasi:
