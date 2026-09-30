@@ -21,7 +21,7 @@ Database terdiri dari 3 tabel berelasi:
 
 1. Clone repositori ini:
    ```bash
-   git clone <url-repo-github>
+   git clone https://github.com/arinafazal/perpustakaan-api.git
    ```
 2. Masuk ke direktori proyek:
    ```bash
